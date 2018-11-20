@@ -1,0 +1,1 @@
+A palette window supporting dragging elements, adding new ones, removing them and restoring the default state. The elements are supposed to be 30@30 sized

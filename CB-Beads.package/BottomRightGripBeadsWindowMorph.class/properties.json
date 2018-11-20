@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "CB 8/24/2015 20:10",
+	"super" : "BottomRightGripMorph",
+	"category" : "CB-Beads-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"meinFenster"
+	],
+	"name" : "BottomRightGripBeadsWindowMorph",
+	"type" : "normal"
+}

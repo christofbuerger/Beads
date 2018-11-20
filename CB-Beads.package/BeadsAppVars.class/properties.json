@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "CB 8/2/2015 10:25",
+	"super" : "SharedPool",
+	"category" : "CB-Beads",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"currentPaintColor",
+		"fadenLaenge"
+	],
+	"instvars" : [ ],
+	"name" : "BeadsAppVars",
+	"type" : "normal"
+}

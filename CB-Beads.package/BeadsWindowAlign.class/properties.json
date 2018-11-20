@@ -1,0 +1,28 @@
+{
+	"commentStamp" : "CB 7/27/2015 23:07",
+	"super" : "StandardWindow",
+	"category" : "CB-Beads-UI",
+	"classinstvars" : [ ],
+	"pools" : [
+		"BeadsAppVars"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"beadsViewArray",
+		"perlenFadenModel",
+		"beadWidth",
+		"morph",
+		"buttomRightCornerGrip",
+		"typeDCS",
+		"simulationFaden",
+		"tools",
+		"dock",
+		"meineApp",
+		"toolsSimul",
+		"rotationCount",
+		"fensterInfoMorph",
+		"text"
+	],
+	"name" : "BeadsWindowAlign",
+	"type" : "normal"
+}

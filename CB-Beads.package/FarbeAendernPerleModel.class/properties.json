@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "CB 8/2/2015 10:31",
+	"super" : "Announcement",
+	"category" : "CB-Beads-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"modelAlteFarbe",
+		"modelNeueFarbe",
+		"alteFarbe",
+		"neueFarbe"
+	],
+	"name" : "FarbeAendernPerleModel",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+initialize
+defaultTitle
+	^'Panel'

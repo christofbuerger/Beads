@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "CB 9/5/2015 22:42",
+	"super" : "Morph",
+	"category" : "CB-Kruemel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"area",
+		"paintingColor"
+	],
+	"name" : "PaintCanvas",
+	"type" : "normal"
+}

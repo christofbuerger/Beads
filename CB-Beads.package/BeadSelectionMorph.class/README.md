@@ -1,0 +1,1 @@
+Subclass from SelectionMorph. Serves selections to be colored in BeadsViews.

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "ChristofBuerger 6/10/2016 23:29",
+	"super" : "BdPerlenFadenHalterCorr",
+	"category" : "CB-Perlen-Rework2-Holders",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cover",
+		"cover2"
+	],
+	"name" : "BdPerlenFadenHalterSimu",
+	"type" : "normal"
+}

@@ -1,0 +1,32 @@
+{
+	"commentStamp" : "CB 9/5/2015 22:41",
+	"super" : "Object",
+	"category" : "CB-Kruemel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"FarbArrayA",
+		"FarbArrayB",
+		"FarbenArray",
+		"FarbenArrayNeu",
+		"fArrayA",
+		"fArrayB",
+		"formA",
+		"formB"
+	],
+	"instvars" : [
+		"window",
+		"menubar",
+		"toolbar",
+		"drawingArea",
+		"simGroesse",
+		"zustaende",
+		"punktGroesse",
+		"rechenZyklen",
+		"rechenZyklen2",
+		"zykl",
+		"zyklenZaehler"
+	],
+	"name" : "Painter",
+	"type" : "normal"
+}

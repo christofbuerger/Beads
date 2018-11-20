@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "PasteUpMorph",
+	"category" : "CB-Perlen-Rework2-Holders",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sel",
+		"perlenFadenModel",
+		"perlenSize",
+		"scrollpane",
+		"breite"
+	],
+	"name" : "BdPerlenFadenHalter",
+	"type" : "normal"
+}

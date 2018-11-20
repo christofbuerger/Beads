@@ -1,0 +1,3 @@
+accessing
+fadenhaltercorr: anBdPerlenFadenHalterCorr
+	fadenhaltercorr := anBdPerlenFadenHalterCorr

@@ -1,0 +1,2 @@
+Only to give components access to the currentPaintColor. Had no other Idea how to achieve that.
+The color is determined from ColorPanel/ColorWell. But how can the BorderedPerleView know about the choosen color for changeing to it if he gets clickted (mouseDown:).

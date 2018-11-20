@@ -1,0 +1,1 @@
+k:=KruemelSpecApp new openWithSpec; start2; einPaarZyklen: 1; flaecheAnzeigenNeu.

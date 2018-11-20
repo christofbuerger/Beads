@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "CB 8/8/2015 23:32",
+	"super" : "SelectionMorph",
+	"category" : "CB-Beads-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fenster"
+	],
+	"name" : "BeadSelectionMorph",
+	"type" : "normal"
+}

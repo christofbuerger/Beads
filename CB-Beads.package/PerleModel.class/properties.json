@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "CB 8/2/2015 10:36",
+	"super" : "Object",
+	"category" : "CB-Beads",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"farbe",
+		"nummer",
+		"meinFaden",
+		"perleGeaendertAnnouncer",
+		"modelGeaendertAnnouncer",
+		"modelOderPerleGeaendertAnnouncer"
+	],
+	"name" : "PerleModel",
+	"type" : "normal"
+}

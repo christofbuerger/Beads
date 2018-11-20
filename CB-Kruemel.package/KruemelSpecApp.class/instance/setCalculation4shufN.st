@@ -1,0 +1,3 @@
+accessing
+setCalculation4shufN
+	calculationMethod := #rechnenEinfachNeuNESW4NshufN

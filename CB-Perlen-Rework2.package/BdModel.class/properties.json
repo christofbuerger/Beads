@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "CB 9/14/2015 23:15",
+	"super" : "Object",
+	"category" : "CB-Perlen-Rework2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"farbe",
+		"nummer",
+		"announcer",
+		"meinFaden"
+	],
+	"name" : "BdModel",
+	"type" : "normal"
+}

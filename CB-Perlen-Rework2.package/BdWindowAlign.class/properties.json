@@ -1,0 +1,33 @@
+{
+	"commentStamp" : "ChristofBuerger 6/7/2016 15:57",
+	"super" : "StandardWindow",
+	"category" : "CB-Perlen-Rework2",
+	"classinstvars" : [ ],
+	"pools" : [
+		"BeadsAppVars"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"beadsViewArray",
+		"perlenFadenModel",
+		"beadWidth",
+		"morph",
+		"buttomRightCornerGrip",
+		"typeDCS",
+		"simulationFaden",
+		"tools",
+		"dock",
+		"meineApp",
+		"toolsSimul",
+		"rotationCount",
+		"fensterInfoMorph",
+		"text",
+		"tools2",
+		"dock2",
+		"myPerlenhalter",
+		"myPerlenhalterCorr",
+		"myPerlenhalterSim"
+	],
+	"name" : "BdWindowAlign",
+	"type" : "normal"
+}

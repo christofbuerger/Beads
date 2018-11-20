@@ -1,0 +1,1 @@
+Holder for BoarderedPerleViews within BeadsWindowAlign to recieve Events for coloring Beads

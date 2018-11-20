@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "SelectionMorph",
+	"category" : "CB-Perlen-Rework2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"iDoSelectFrom",
+		"semaphore"
+	],
+	"name" : "BdSelectionMorph",
+	"type" : "normal"
+}

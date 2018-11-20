@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "CB-Perlen-Rework2",
+	"classinstvars" : [
+		"currentPaintColor",
+		"announcer",
+		"currentPerleSize"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BdAp",
+	"type" : "normal"
+}

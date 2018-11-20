@@ -1,0 +1,3 @@
+accessing
+defaultBeadWidth
+^20

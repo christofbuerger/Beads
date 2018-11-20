@@ -1,0 +1,3 @@
+initialize
+defaultBorderColor
+	^Color white

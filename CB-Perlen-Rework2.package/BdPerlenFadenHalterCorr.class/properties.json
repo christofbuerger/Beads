@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "CB 10/11/2015 19:44",
+	"super" : "BdPerlenFadenHalter",
+	"category" : "CB-Perlen-Rework2-Holders",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"coverFlapLeft",
+		"coverFlapRight",
+		"rotationCount"
+	],
+	"name" : "BdPerlenFadenHalterCorr",
+	"type" : "normal"
+}

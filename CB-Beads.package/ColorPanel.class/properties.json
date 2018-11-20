@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "CB 8/1/2015 15:23",
+	"super" : "WellPanel",
+	"category" : "CB-Beads-Paletten",
+	"classinstvars" : [ ],
+	"pools" : [
+		"BeadsAppVars"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"currentColor"
+	],
+	"name" : "ColorPanel",
+	"type" : "normal"
+}

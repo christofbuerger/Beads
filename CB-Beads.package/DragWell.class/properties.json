@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "StephanEggermont 6/26/2015 11:23",
+	"super" : "BorderedMorph",
+	"category" : "CB-Beads-Paletten",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"panel",
+		"over",
+		"dropSelector",
+		"clickSelector"
+	],
+	"name" : "DragWell",
+	"type" : "normal"
+}

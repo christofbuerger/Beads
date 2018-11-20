@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "CB 8/2/2015 10:28",
+	"super" : "SimpleButtonMorph",
+	"category" : "CB-Beads-UI",
+	"classinstvars" : [ ],
+	"pools" : [
+		"BeadsAppVars"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"farbe",
+		"groesse",
+		"perleModel",
+		"modelGeaendertAnnouncer",
+		"perleGeaendertAnnouncer",
+		"modelOderPerleGeaendertAnnouncer",
+		"clicks",
+		"meineApp"
+	],
+	"name" : "BoarderedPerleView",
+	"type" : "normal"
+}

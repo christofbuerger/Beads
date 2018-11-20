@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "CB-Perlen-Rework2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"perlenFadenModel"
+	],
+	"name" : "BdFadenModel",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Announcement",
+	"category" : "CB-Beads-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"perleFadenModel",
+		"wasGeaendert"
+	],
+	"name" : "PerlenFadenModelGeaendert",
+	"type" : "normal"
+}

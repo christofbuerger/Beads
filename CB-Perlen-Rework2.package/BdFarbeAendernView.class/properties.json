@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Announcement",
+	"category" : "CB-Perlen-Rework2-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"alteFarbe",
+		"neueFarbe"
+	],
+	"name" : "BdFarbeAendernView",
+	"type" : "normal"
+}

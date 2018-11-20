@@ -1,0 +1,3 @@
+accessing
+defaultPerlenGroesse
+	^ defaultPerlenGroesse

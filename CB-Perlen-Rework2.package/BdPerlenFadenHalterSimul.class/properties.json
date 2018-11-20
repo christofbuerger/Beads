@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "ChristofBuerger 10/25/2015 16:09",
+	"super" : "PasteUpMorph",
+	"category" : "CB-Perlen-Rework2-Holders",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"passpartout",
+		"fadenhaltercorr",
+		"cover",
+		"coverFlapLeft",
+		"coverFlapRight",
+		"myPerlenhalter",
+		"perlenFadenModel"
+	],
+	"name" : "BdPerlenFadenHalterSimul",
+	"type" : "normal"
+}

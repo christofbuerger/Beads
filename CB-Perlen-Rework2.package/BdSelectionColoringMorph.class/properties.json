@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "BdSelectionMorph",
+	"category" : "CB-Perlen-Rework2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BdSelectionColoringMorph",
+	"type" : "normal"
+}

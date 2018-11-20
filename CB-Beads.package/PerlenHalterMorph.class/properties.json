@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "CB 8/12/2015 21:33",
+	"super" : "Morph",
+	"category" : "CB-Beads-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PerlenHalterMorph",
+	"type" : "normal"
+}

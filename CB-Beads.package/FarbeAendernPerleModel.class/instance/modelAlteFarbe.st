@@ -1,0 +1,3 @@
+accessing
+modelAlteFarbe
+	^ modelAlteFarbe

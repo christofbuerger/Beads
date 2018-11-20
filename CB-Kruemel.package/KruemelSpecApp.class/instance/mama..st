@@ -1,0 +1,3 @@
+accessing
+mama: anInteger
+	^ anInteger

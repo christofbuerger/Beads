@@ -1,0 +1,1 @@
+I am an announcement - color changes to a perleView will raise me. I carry information about the old color before the change and the new one after the change.

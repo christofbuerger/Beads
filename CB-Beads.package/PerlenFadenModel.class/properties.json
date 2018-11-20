@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "CB 8/2/2015 10:37",
+	"super" : "Object",
+	"category" : "CB-Beads",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"perlenModelOrdColl",
+		"perlenGroesse"
+	],
+	"name" : "PerlenFadenModel",
+	"type" : "normal"
+}

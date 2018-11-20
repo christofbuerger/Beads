@@ -1,0 +1,31 @@
+{
+	"commentStamp" : "ChristofBuerger 5/29/2016 10:54",
+	"super" : "ComposableModel",
+	"category" : "CB-Kruemel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"FarbenArrayNeu",
+		"fArrayA",
+		"fArrayB"
+	],
+	"instvars" : [
+		"menu",
+		"text",
+		"drawingArea",
+		"simGroesse",
+		"zustaende",
+		"punktGroesse",
+		"rechenZyklen",
+		"rechenZyklen2",
+		"zyklenZaehler",
+		"input",
+		"label",
+		"calculationDropList",
+		"calculationDroplist",
+		"calculationMethod",
+		"input2"
+	],
+	"name" : "KruemelSpecApp",
+	"type" : "normal"
+}

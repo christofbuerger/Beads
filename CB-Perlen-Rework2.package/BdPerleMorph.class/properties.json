@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "CB 9/14/2015 23:20",
+	"super" : "SimpleButtonMorph",
+	"category" : "CB-Perlen-Rework2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"currentPerleSize"
+	],
+	"instvars" : [
+		"farbe",
+		"perleModel",
+		"subscribed",
+		"double",
+		"perleSize"
+	],
+	"name" : "BdPerleMorph",
+	"type" : "normal"
+}

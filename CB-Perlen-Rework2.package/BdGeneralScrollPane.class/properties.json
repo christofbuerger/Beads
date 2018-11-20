@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "GeneralScrollPane",
+	"category" : "CB-Perlen-Rework2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"myPerlenhalter"
+	],
+	"name" : "BdGeneralScrollPane",
+	"type" : "normal"
+}

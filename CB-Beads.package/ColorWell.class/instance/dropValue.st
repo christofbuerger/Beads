@@ -1,0 +1,3 @@
+actions
+dropValue
+	^self color.

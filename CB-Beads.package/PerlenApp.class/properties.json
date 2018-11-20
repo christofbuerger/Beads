@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "CB 8/4/2015 20:24",
+	"super" : "Object",
+	"category" : "CB-Beads",
+	"classinstvars" : [ ],
+	"pools" : [
+		"BeadsAppVars"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"defaultLaenge",
+		"perlenFadenModel",
+		"perlenFadenViewsOC",
+		"defaultPerlenGroesse",
+		"colorPickerWindow",
+		"defaultPaintColor",
+		"currentPaintColor"
+	],
+	"name" : "PerlenApp",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+A square widget used to drag properties from. Used in a WellPanel. Supports deletion with right-click

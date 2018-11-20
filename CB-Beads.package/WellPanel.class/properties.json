@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "StephanEggermont 6/24/2015 10:20",
+	"super" : "BorderedMorph",
+	"category" : "CB-Beads-Paletten",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"over",
+		"title",
+		"defaultValues",
+		"allowDropBlock"
+	],
+	"name" : "WellPanel",
+	"type" : "normal"
+}

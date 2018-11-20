@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Announcement",
+	"category" : "CB-Perlen-Rework2-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"alteNummer",
+		"neueNummer"
+	],
+	"name" : "BdNummerAendernModel",
+	"type" : "normal"
+}

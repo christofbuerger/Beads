@@ -1,0 +1,3 @@
+subclassresponsibility
+dropValue
+	^self subclassResponsibility 

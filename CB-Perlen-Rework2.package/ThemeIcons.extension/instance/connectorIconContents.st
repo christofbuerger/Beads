@@ -1,0 +1,10 @@
+*CB-Perlen-Rework2
+connectorIconContents
+	"Private - Method generated with the content of the file /users/stephan/downloads/40474/connector.png"
+	^ 'iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAAZiS0dE
+AP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB98CDAshCJG7mrIAAADb
+SURBVDjLrZM9CsJAEEbfLFYWoqQSIhbWdh5BLBc8guQCegBrS63sPIQprDyB2HkCe4kKKUPG
+wgT8iUkUHyy77M+DYb4VXtgfDyy2K4LwTBBeaFRrODWHcd+j1+6Sie/7Ciigybo0ksyql2Sj
+DqoqhQ/lfsXwDx5LSMtQVfLGG+lBKiuSfBSUleQKykgKBUWSUoI8yU9dygrZU2Cm/pz1bkOn
+6VKpmHtTBaIoZtQaqrX2UYq1ViTrL8w2S07XAGMMcRzjOk0mA49eu/uUWEDky8y9CX5O7Lef
+7iM3XKgU5ZCGCcQAAAAASUVORK5CYII='

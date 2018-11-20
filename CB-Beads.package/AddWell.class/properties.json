@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "StephanEggermont 6/26/2015 13:22",
+	"super" : "DragWell",
+	"category" : "CB-Beads-Paletten",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mouseDown",
+		"plusColor"
+	],
+	"name" : "AddWell",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "CB 9/5/2015 22:42",
+	"super" : "Object",
+	"category" : "CB-Kruemel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"elements",
+		"sizes",
+		"multipliers",
+		"constant",
+		"dimensions"
+	],
+	"name" : "NDArray",
+	"type" : "normal"
+}
